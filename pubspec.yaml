@@ -1,7 +1,7 @@
 name: flutter_via_cep
 description: A new Flutter package project.
 version: 0.0.1
-author: Felipe Toniolo <ftoniolo.aat@gmail.com>
+authors: Felipe Toniolo <ftoniolo.aat@gmail.com>
 homepage: https://github.com/FelipeToniolo/flutter_via_cep.git
 
 environment:
